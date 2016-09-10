@@ -36,3 +36,5 @@
 http://ludeon.com/forums/index.php?topic=2933.0
 
 ## По вопросам процесса перевода обратитесь к [wiki](https://github.com/Ludeon/RimWorld-ru/wiki).
+
+## Чтобы иметь право быть добавленным в LanguageInfo.xml в качестве переводчика, необходимо оказывать активную помощь в переводе как минимум двух релизных версий RimWorld.
