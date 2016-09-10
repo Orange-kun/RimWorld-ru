@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 	
@@ -21,5 +21,10 @@
 	<SmokeleafJoint.description>Листья дымолиста, скрученные для курения. Повышает настроение, а также увеличивает аппетит, снижает сосредоточенность и замедляет движение. Употребление дымолиста может привести к зависимости. Может быть создана без какого-либо оборудования, на рабочем месте.</SmokeleafJoint.description>
 	<SmokeleafJoint.ingestible.ingestCommandString>Курить {0}</SmokeleafJoint.ingestible.ingestCommandString>
 	<SmokeleafJoint.ingestible.ingestReportString>Курит {0}.</SmokeleafJoint.ingestible.ingestReportString>
+
+	<MalariBlock.label>антималярин</MalariBlock.label>
+	<MalariBlock.description>Препарат для сдерживания малярии. Принимайте каждые пять дней, чтобы малярия вас не беспокоила.</MalariBlock.description>
+	<MalariBlock.ingestible.ingestCommandString>Принять {0}</MalariBlock.ingestible.ingestCommandString>
+	<MalariBlock.ingestible.ingestReportString>Принимает {0}.</MalariBlock.ingestible.ingestReportString>
 
 </LanguageData>
